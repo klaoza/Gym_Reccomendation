@@ -1,0 +1,201 @@
+gym_id,city,state,gym_type,facilities,gender
+gym_1,Los Angeles,California,Premium,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_2,Los Angeles,California,Premium,"Group Fitness Studio, Personal Training Area, Sports Court, Swimming Pool",Male
+gym_3,Los Angeles,California,Budget,"CrossFit Box, Personal Training Area, Sports Court","Female, Male"
+gym_4,Los Angeles,California,Standard,"Group Fitness Studio, Swimming Pool","Female, Male"
+gym_5,Los Angeles,California,Premium,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_6,Los Angeles,California,Budget,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool",Male
+gym_7,Los Angeles,California,Budget,"CrossFit Box, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_8,Los Angeles,California,Premium,"CrossFit Box, Group Fitness Studio","Female, Male"
+gym_9,Los Angeles,California,Budget,"CrossFit Box, Personal Training Area, Sports Court","Female, Male"
+gym_10,Los Angeles,California,Standard,"CrossFit Box, Personal Training Area, Sports Court","Female, Male"
+gym_11,Los Angeles,California,Premium,"CrossFit Box, Group Fitness Studio, Sports Court, Swimming Pool",Male
+gym_12,Los Angeles,California,Budget,"Group Fitness Studio, Sports Court",Female
+gym_13,Los Angeles,California,Budget,"Sports Court, Swimming Pool","Female, Male"
+gym_14,Los Angeles,California,Premium,"Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_15,Los Angeles,California,Standard,"CrossFit Box, Sports Court","Female, Male"
+gym_16,Los Angeles,California,Budget,"Group Fitness Studio, Personal Training Area","Female, Male"
+gym_17,Los Angeles,California,Premium,"CrossFit Box, Swimming Pool","Female, Male"
+gym_18,Los Angeles,California,Standard,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_19,San Francisco,California,Budget,"CrossFit Box, Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_20,San Francisco,California,Premium,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_21,San Francisco,California,Premium,"Group Fitness Studio, Personal Training Area, Sports Court",Female
+gym_22,San Francisco,California,Budget,"CrossFit Box, Personal Training Area, Swimming Pool",Male
+gym_23,San Francisco,California,Budget,"CrossFit Box, Spa & Recovery Zone","Female, Male"
+gym_24,San Francisco,California,Budget,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_25,San Francisco,California,Budget,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Swimming Pool",Male
+gym_26,San Francisco,California,Budget,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone",Female
+gym_27,San Francisco,California,Budget,"CrossFit Box, Personal Training Area, Sports Court",Female
+gym_28,San Francisco,California,Budget,"Group Fitness Studio, Personal Training Area, Sports Court","Female, Male"
+gym_29,San Francisco,California,Standard,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Swimming Pool",Female
+gym_30,San Francisco,California,Budget,"Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_31,San Francisco,California,Premium,"Personal Training Area, Swimming Pool",Female
+gym_32,San Francisco,California,Premium,"CrossFit Box, Group Fitness Studio, Personal Training Area, Swimming Pool","Female, Male"
+gym_33,San Francisco,California,Budget,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_34,San Diego,California,Standard,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_35,San Diego,California,Budget,"CrossFit Box, Sports Court","Female, Male"
+gym_36,San Diego,California,Budget,"CrossFit Box, Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_37,San Diego,California,Premium,"CrossFit Box, Group Fitness Studio, Swimming Pool","Female, Male"
+gym_38,San Diego,California,Standard,"CrossFit Box, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_39,San Diego,California,Standard,"CrossFit Box, Group Fitness Studio, Personal Training Area",Female
+gym_40,San Diego,California,Budget,"Personal Training Area, Sports Court, Swimming Pool",Male
+gym_41,San Diego,California,Budget,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_42,San Diego,California,Premium,"CrossFit Box, Swimming Pool","Female, Male"
+gym_43,San Diego,California,Standard,"CrossFit Box, Swimming Pool",Female
+gym_44,San Diego,California,Standard,"Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_45,San Diego,California,Budget,"Group Fitness Studio, Swimming Pool","Female, Male"
+gym_46,Sacramento,California,Budget,"Group Fitness Studio, Swimming Pool",Male
+gym_47,Sacramento,California,Standard,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_48,Sacramento,California,Standard,"CrossFit Box, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_49,Sacramento,California,Budget,"Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_50,Sacramento,California,Premium,"CrossFit Box, Group Fitness Studio",Female
+gym_51,Sacramento,California,Budget,"CrossFit Box, Personal Training Area, Swimming Pool",Female
+gym_52,Sacramento,California,Standard,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Swimming Pool",Male
+gym_53,Sacramento,California,Standard,"CrossFit Box, Group Fitness Studio, Sports Court",Female
+gym_54,Sacramento,California,Premium,"Sports Court, Swimming Pool","Female, Male"
+gym_55,Sacramento,California,Standard,"Group Fitness Studio, Personal Training Area, Swimming Pool",Male
+gym_56,San Jose,California,Standard,"CrossFit Box, Personal Training Area","Female, Male"
+gym_57,San Jose,California,Budget,"CrossFit Box, Sports Court, Swimming Pool",Female
+gym_58,San Jose,California,Standard,"CrossFit Box, Sports Court, Swimming Pool",Female
+gym_59,San Jose,California,Standard,"Personal Training Area, Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_60,San Jose,California,Standard,"Spa & Recovery Zone, Sports Court","Female, Male"
+gym_61,San Jose,California,Budget,"CrossFit Box, Sports Court, Swimming Pool",Male
+gym_62,San Jose,California,Budget,"Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_63,San Jose,California,Standard,"Group Fitness Studio, Personal Training Area, Sports Court","Female, Male"
+gym_64,San Jose,California,Budget,"CrossFit Box, Group Fitness Studio","Female, Male"
+gym_65,San Jose,California,Standard,"Group Fitness Studio, Swimming Pool","Female, Male"
+gym_66,Fresno,California,Premium,"CrossFit Box, Group Fitness Studio, Swimming Pool","Female, Male"
+gym_67,Fresno,California,Budget,"CrossFit Box, Personal Training Area","Female, Male"
+gym_68,Fresno,California,Standard,"Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_69,Fresno,California,Budget,"Group Fitness Studio, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_70,Fresno,California,Budget,"CrossFit Box, Sports Court","Female, Male"
+gym_71,Fresno,California,Premium,"Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_72,Fresno,California,Budget,"CrossFit Box, Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_73,Fresno,California,Standard,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_74,Oakland,California,Premium,"CrossFit Box, Personal Training Area, Sports Court, Swimming Pool",Male
+gym_75,Oakland,California,Budget,"CrossFit Box, Swimming Pool",Male
+gym_76,Oakland,California,Budget,"Personal Training Area, Spa & Recovery Zone",Male
+gym_77,Oakland,California,Standard,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_78,Oakland,California,Budget,"Personal Training Area, Sports Court","Female, Male"
+gym_79,Oakland,California,Standard,"Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_80,Oakland,California,Standard,"Group Fitness Studio, Sports Court","Female, Male"
+gym_81,Oakland,California,Premium,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_82,Long Beach,California,Standard,"Personal Training Area, Sports Court","Female, Male"
+gym_83,Long Beach,California,Budget,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_84,Long Beach,California,Premium,"Group Fitness Studio, Sports Court","Female, Male"
+gym_85,Long Beach,California,Budget,"Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_86,Long Beach,California,Premium,"Spa & Recovery Zone, Sports Court","Female, Male"
+gym_87,Long Beach,California,Premium,"CrossFit Box, Personal Training Area, Swimming Pool","Female, Male"
+gym_88,Long Beach,California,Premium,"CrossFit Box, Sports Court, Swimming Pool",Female
+gym_89,Bakersfield,California,Standard,"CrossFit Box, Sports Court, Swimming Pool","Female, Male"
+gym_90,Bakersfield,California,Premium,"Sports Court, Swimming Pool","Female, Male"
+gym_91,Bakersfield,California,Budget,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone, Sports Court",Male
+gym_92,Bakersfield,California,Budget,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone","Female, Male"
+gym_93,Bakersfield,California,Budget,"CrossFit Box, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_94,Bakersfield,California,Budget,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_95,Bakersfield,California,Premium,"Sports Court, Swimming Pool",Male
+gym_96,Anaheim,California,Budget,"Spa & Recovery Zone, Sports Court","Female, Male"
+gym_97,Anaheim,California,Premium,"CrossFit Box, Spa & Recovery Zone, Swimming Pool",Female
+gym_98,Anaheim,California,Standard,"Group Fitness Studio, Personal Training Area, Sports Court","Female, Male"
+gym_99,Anaheim,California,Standard,"CrossFit Box, Group Fitness Studio, Sports Court","Female, Male"
+gym_100,Anaheim,California,Standard,"Personal Training Area, Sports Court","Female, Male"
+gym_101,Houston,Texas,Premium,"Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_102,Houston,Texas,Premium,"CrossFit Box, Group Fitness Studio, Personal Training Area, Sports Court","Female, Male"
+gym_103,Houston,Texas,Premium,"CrossFit Box, Group Fitness Studio, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_104,Houston,Texas,Standard,"Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_105,Houston,Texas,Standard,"Personal Training Area, Swimming Pool","Female, Male"
+gym_106,Houston,Texas,Premium,"CrossFit Box, Group Fitness Studio, Personal Training Area, Swimming Pool",Male
+gym_107,Houston,Texas,Premium,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_108,Houston,Texas,Budget,"Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_109,Houston,Texas,Budget,"CrossFit Box, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_110,Houston,Texas,Premium,"Spa & Recovery Zone, Swimming Pool",Male
+gym_111,Houston,Texas,Standard,"Personal Training Area, Swimming Pool","Female, Male"
+gym_112,Houston,Texas,Premium,"CrossFit Box, Group Fitness Studio, Personal Training Area","Female, Male"
+gym_113,Houston,Texas,Standard,"Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_114,Houston,Texas,Premium,"Group Fitness Studio, Personal Training Area, Sports Court, Swimming Pool","Female, Male"
+gym_115,Houston,Texas,Premium,"Group Fitness Studio, Personal Training Area","Female, Male"
+gym_116,Dallas,Texas,Budget,"CrossFit Box, Sports Court, Swimming Pool",Female
+gym_117,Dallas,Texas,Budget,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_118,Dallas,Texas,Premium,"CrossFit Box, Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_119,Dallas,Texas,Budget,"CrossFit Box, Group Fitness Studio, Personal Training Area","Female, Male"
+gym_120,Dallas,Texas,Standard,"Personal Training Area, Sports Court","Female, Male"
+gym_121,Dallas,Texas,Standard,"CrossFit Box, Spa & Recovery Zone, Swimming Pool",Female
+gym_122,Dallas,Texas,Premium,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_123,Dallas,Texas,Premium,"CrossFit Box, Spa & Recovery Zone","Female, Male"
+gym_124,Dallas,Texas,Premium,"Group Fitness Studio, Personal Training Area, Swimming Pool","Female, Male"
+gym_125,Dallas,Texas,Standard,"CrossFit Box, Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_126,Dallas,Texas,Premium,"Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_127,Dallas,Texas,Budget,"Personal Training Area, Sports Court","Female, Male"
+gym_128,Austin,Texas,Premium,"Group Fitness Studio, Personal Training Area, Sports Court","Female, Male"
+gym_129,Austin,Texas,Budget,"Personal Training Area, Spa & Recovery Zone",Male
+gym_130,Austin,Texas,Standard,"Personal Training Area, Sports Court, Swimming Pool","Female, Male"
+gym_131,Austin,Texas,Standard,"CrossFit Box, Group Fitness Studio, Sports Court, Swimming Pool",Female
+gym_132,Austin,Texas,Standard,"CrossFit Box, Group Fitness Studio, Swimming Pool","Female, Male"
+gym_133,Austin,Texas,Standard,"CrossFit Box, Sports Court, Swimming Pool","Female, Male"
+gym_134,Austin,Texas,Budget,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_135,Austin,Texas,Budget,"Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_136,Austin,Texas,Standard,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_137,Austin,Texas,Standard,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool",Male
+gym_138,San Antonio,Texas,Premium,"Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_139,San Antonio,Texas,Premium,"CrossFit Box, Spa & Recovery Zone, Sports Court",Male
+gym_140,San Antonio,Texas,Budget,"Personal Training Area, Swimming Pool",Male
+gym_141,San Antonio,Texas,Budget,"Group Fitness Studio, Personal Training Area","Female, Male"
+gym_142,San Antonio,Texas,Standard,"CrossFit Box, Personal Training Area",Female
+gym_143,San Antonio,Texas,Standard,"CrossFit Box, Group Fitness Studio, Personal Training Area, Spa & Recovery Zone",Female
+gym_144,San Antonio,Texas,Standard,"CrossFit Box, Swimming Pool",Male
+gym_145,San Antonio,Texas,Budget,"CrossFit Box, Group Fitness Studio, Swimming Pool","Female, Male"
+gym_146,Fort Worth,Texas,Standard,"Group Fitness Studio, Spa & Recovery Zone, Swimming Pool",Male
+gym_147,Fort Worth,Texas,Budget,"Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_148,Fort Worth,Texas,Premium,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool",Female
+gym_149,Fort Worth,Texas,Budget,"CrossFit Box, Group Fitness Studio",Male
+gym_150,Fort Worth,Texas,Standard,"CrossFit Box, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_151,Miami,Florida,Premium,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Swimming Pool",Male
+gym_152,Miami,Florida,Budget,"CrossFit Box, Group Fitness Studio, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_153,Miami,Florida,Budget,"Group Fitness Studio, Sports Court",Female
+gym_154,Miami,Florida,Premium,"Group Fitness Studio, Spa & Recovery Zone","Female, Male"
+gym_155,Miami,Florida,Premium,"Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_156,Miami,Florida,Standard,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_157,Miami,Florida,Budget,"Group Fitness Studio, Spa & Recovery Zone","Female, Male"
+gym_158,Miami,Florida,Budget,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Sports Court",Male
+gym_159,Miami,Florida,Budget,"Spa & Recovery Zone, Sports Court, Swimming Pool",Male
+gym_160,Miami,Florida,Premium,"Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_161,Miami,Florida,Premium,"CrossFit Box, Group Fitness Studio, Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_162,Miami,Florida,Budget,"Personal Training Area, Spa & Recovery Zone","Female, Male"
+gym_163,Miami,Florida,Standard,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool",Male
+gym_164,Miami,Florida,Budget,"Group Fitness Studio, Sports Court, Swimming Pool","Female, Male"
+gym_165,Orlando,Florida,Premium,"CrossFit Box, Personal Training Area, Sports Court, Swimming Pool","Female, Male"
+gym_166,Orlando,Florida,Budget,"CrossFit Box, Personal Training Area","Female, Male"
+gym_167,Orlando,Florida,Budget,"CrossFit Box, Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_168,Orlando,Florida,Standard,"Group Fitness Studio, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_169,Orlando,Florida,Standard,"Group Fitness Studio, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_170,Orlando,Florida,Budget,"Group Fitness Studio, Personal Training Area, Sports Court",Male
+gym_171,Orlando,Florida,Budget,"CrossFit Box, Personal Training Area","Female, Male"
+gym_172,Orlando,Florida,Standard,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Swimming Pool",Male
+gym_173,Orlando,Florida,Budget,"Group Fitness Studio, Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_174,Orlando,Florida,Standard,"CrossFit Box, Group Fitness Studio, Swimming Pool","Female, Male"
+gym_175,Orlando,Florida,Premium,"CrossFit Box, Swimming Pool",Female
+gym_176,Orlando,Florida,Premium,"Group Fitness Studio, Personal Training Area, Sports Court","Female, Male"
+gym_177,Tampa,Florida,Standard,"CrossFit Box, Group Fitness Studio, Personal Training Area, Swimming Pool",Female
+gym_178,Tampa,Florida,Budget,"CrossFit Box, Sports Court",Female
+gym_179,Tampa,Florida,Budget,"CrossFit Box, Spa & Recovery Zone","Female, Male"
+gym_180,Tampa,Florida,Premium,"CrossFit Box, Personal Training Area, Spa & Recovery Zone, Sports Court",Male
+gym_181,Tampa,Florida,Budget,"CrossFit Box, Spa & Recovery Zone","Female, Male"
+gym_182,Tampa,Florida,Premium,"Group Fitness Studio, Spa & Recovery Zone, Sports Court, Swimming Pool",Male
+gym_183,Tampa,Florida,Standard,"CrossFit Box, Group Fitness Studio, Swimming Pool","Female, Male"
+gym_184,Tampa,Florida,Budget,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_185,Tampa,Florida,Standard,"Group Fitness Studio, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_186,Tampa,Florida,Premium,"CrossFit Box, Personal Training Area, Sports Court, Swimming Pool","Female, Male"
+gym_187,Jacksonville,Florida,Premium,"CrossFit Box, Swimming Pool","Female, Male"
+gym_188,Jacksonville,Florida,Premium,"CrossFit Box, Sports Court, Swimming Pool","Female, Male"
+gym_189,Jacksonville,Florida,Budget,"Personal Training Area, Sports Court","Female, Male"
+gym_190,Jacksonville,Florida,Premium,"Personal Training Area, Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_191,Jacksonville,Florida,Standard,"CrossFit Box, Group Fitness Studio, Personal Training Area, Swimming Pool","Female, Male"
+gym_192,Jacksonville,Florida,Budget,"CrossFit Box, Sports Court",Male
+gym_193,Jacksonville,Florida,Standard,"Spa & Recovery Zone, Swimming Pool","Female, Male"
+gym_194,Jacksonville,Florida,Standard,"Spa & Recovery Zone, Sports Court, Swimming Pool","Female, Male"
+gym_195,Fort Lauderdale,Florida,Standard,"CrossFit Box, Spa & Recovery Zone, Sports Court, Swimming Pool",Male
+gym_196,Fort Lauderdale,Florida,Budget,"CrossFit Box, Group Fitness Studio, Personal Training Area, Swimming Pool","Female, Male"
+gym_197,Fort Lauderdale,Florida,Budget,"Group Fitness Studio, Personal Training Area, Sports Court, Swimming Pool","Female, Male"
+gym_198,Fort Lauderdale,Florida,Premium,"CrossFit Box, Group Fitness Studio, Spa & Recovery Zone","Female, Male"
+gym_199,Fort Lauderdale,Florida,Budget,"Personal Training Area, Spa & Recovery Zone, Sports Court","Female, Male"
+gym_200,Fort Lauderdale,Florida,Budget,"Group Fitness Studio, Spa & Recovery Zone, Swimming Pool","Female, Male"

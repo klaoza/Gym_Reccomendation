@@ -1,0 +1,201 @@
+gym_id,gym_name
+gym_1,Hollywood Fitness Studio
+gym_2,LA Iron Works
+gym_3,Venice Beach CrossFit
+gym_4,Beverly Hills Wellness
+gym_5,Santa Monica Aquatic Center
+gym_6,Downtown LA Fitness
+gym_7,Silver Lake CrossFit Box
+gym_8,West Hollywood Athletic Club
+gym_9,Culver City Strong
+gym_10,Echo Park Sports Complex
+gym_11,Koreatown Elite Gym
+gym_12,Pasadena Women's Fitness
+gym_13,Glendale Sports Arena
+gym_14,Marina Del Rey Spa & Fitness
+gym_15,Los Feliz CrossFit
+gym_16,Westwood Personal Training Center
+gym_17,Manhattan Beach Swim & Gym
+gym_18,Century City Premium Fitness
+gym_19,Golden Gate CrossFit
+gym_20,Bay Area Premier Fitness
+gym_21,Nob Hill Women's Studio
+gym_22,Mission District Iron
+gym_23,Castro Wellness Center
+gym_24,SOMA Fitness & Spa
+gym_25,Fisherman's Wharf Gym
+gym_26,Pacific Heights Women's Club
+gym_27,Richmond CrossFit
+gym_28,Union Square Athletic Center
+gym_29,Embarcadero Fitness Studio
+gym_30,North Beach Training Spa
+gym_31,Hayes Valley Women's Fitness
+gym_32,Marina District Aquatics
+gym_33,Sunset CrossFit Box
+gym_34,Gaslamp Fitness Studio
+gym_35,La Jolla CrossFit
+gym_36,Pacific Beach Wellness
+gym_37,Mission Bay Aquatic Gym
+gym_38,Ocean Beach Fitness Spa
+gym_39,Hillcrest Training Center
+gym_40,Point Loma Sports Complex
+gym_41,Coronado Beach Fitness
+gym_42,Mission Valley Premium Gym
+gym_43,North Park Swim Club
+gym_44,Old Town Training Spa
+gym_45,Bay Park Community Fitness
+gym_46,Midtown Sacramento Gym
+gym_47,Land Park CrossFit Center
+gym_48,East Sacramento Wellness
+gym_49,Downtown Sac Fitness Spa
+gym_50,Natomas Athletic Club
+gym_51,Elk Grove Sports Center
+gym_52,Curtis Park Fitness
+gym_53,Arden Fair Premium Gym
+gym_54,Pocket Area CrossFit
+gym_55,South Sac Training Center
+gym_56,Orangevale Fitness Studio
+gym_57,Fair Oaks Wellness Gym
+gym_58,Citrus Heights CrossFit
+gym_59,Placer Hills Fitness
+gym_60,Old Town Fresno Gym
+gym_61,Tower District Fitness
+gym_62,Fig Garden Athletic Club
+gym_63,Woodward Park Wellness
+gym_64,Clovis CrossFit Center
+gym_65,Fresno State Fitness
+gym_66,River Park Sports Complex
+gym_67,North Fresno Premium Gym
+gym_68,Downtown Fresno Training
+gym_69,Sunnyside Fitness Studio
+gym_70,Southwest Fresno Gym
+gym_71,Barstow Fitness Center
+gym_72,Temecula Valley CrossFit
+gym_73,Mission Grove Wellness
+gym_74,Old Town Temecula Gym
+gym_75,Wine Country Fitness
+gym_76,Downtown Temecula Athletic
+gym_77,French Valley Training
+gym_78,Murrieta Creek CrossFit
+gym_79,Crown Hill Fitness Studio
+gym_80,Promenade Sports Complex
+gym_81,Railroad Canyon Gym
+gym_82,Civic Center Fitness
+gym_83,Heritage Wellness Center
+gym_84,Perris Valley CrossFit
+gym_85,Canyon Lake Athletic Club
+gym_86,Orange County CrossFit
+gym_87,Disneyland District Fitness
+gym_88,Anaheim Hills Wellness
+gym_89,Downtown Anaheim Gym
+gym_90,Stadium District Training
+gym_91,West Anaheim Fitness
+gym_92,Convention Center Athletic
+gym_93,Platinum Triangle CrossFit
+gym_94,Colony District Gym
+gym_95,Kern County Fitness
+gym_96,Downtown Bakersfield Gym
+gym_97,Oildale CrossFit Center
+gym_98,East Bakersfield Wellness
+gym_99,Southwest Bakersfield Training
+gym_100,Rosedale Fitness Studio
+gym_101,Seven Oaks Sports Complex
+gym_102,Riverlakes Athletic Club
+gym_103,Bakersfield College Gym
+gym_104,Panorama CrossFit
+gym_105,Belmont Shore Fitness
+gym_106,Naples Island Wellness
+gym_107,Downtown Long Beach Athletic
+gym_108,Signal Hill CrossFit
+gym_109,Bixby Knolls Training Center
+gym_110,Alamitos Beach Fitness
+gym_111,Cal State Long Beach Gym
+gym_112,East Village Sports Complex
+gym_113,Broadway Corridor Fitness
+gym_114,Queensway Bay Aquatics
+gym_115,2nd Street Premium Gym
+gym_116,Ocean Center CrossFit
+gym_117,Waterfront Wellness Studio
+gym_118,Lakewood Athletic Club
+gym_119,Houston Heights CrossFit
+gym_120,Downtown Houston Fitness
+gym_121,Midtown Athletic Center
+gym_122,Memorial Park Wellness
+gym_123,Galleria Sports Complex
+gym_124,Montrose Fitness Studio
+gym_125,River Oaks Premium Gym
+gym_126,East End Training Center
+gym_127,Museum District CrossFit
+gym_128,Rice Village Athletic Club
+gym_129,Medical Center Fitness
+gym_130,Washington Avenue Gym
+gym_131,Energy Corridor Wellness
+gym_132,Westchase Sports Center
+gym_133,Alamo Heights Fitness
+gym_134,Downtown San Antonio Athletic
+gym_135,Pearl District Wellness
+gym_136,River Walk Sports Complex
+gym_137,Southtown CrossFit
+gym_138,Stone Oak Premium Gym
+gym_139,Medical Center Training
+gym_140,Alamo Dome Fitness
+gym_141,La Cantera Athletic Club
+gym_142,Fort Worth Stockyards Gym
+gym_143,Sundance Square Fitness
+gym_144,West 7th Athletic Center
+gym_145,TCU District CrossFit
+gym_146,Cultural District Wellness
+gym_147,Near Southside Training
+gym_148,Downtown Fort Worth Sports
+gym_149,Magnolia Avenue CrossFit
+gym_150,Tanglewood Fitness Studio
+gym_151,South Beach Premium Fitness
+gym_152,Brickell CrossFit Center
+gym_153,Wynwood Women's Studio
+gym_154,Design District Wellness
+gym_155,Ocean Drive Aquatic Spa
+gym_156,Little Havana Sports Complex
+gym_157,Coconut Grove Fitness
+gym_158,Coral Way Training Center
+gym_159,Key Biscayne Sports Club
+gym_160,Bayside Spa & Fitness
+gym_161,Edgewater Premium Athletic
+gym_162,Midtown Miami Wellness
+gym_163,Overtown Sports Center
+gym_164,Miami Beach Fitness Studio
+gym_165,Universal Studios Fitness
+gym_166,Winter Park CrossFit
+gym_167,Lake Eola Wellness Center
+gym_168,Downtown Orlando Athletic
+gym_169,Thornton Park Sports Complex
+gym_170,College Park Training
+gym_171,Mills 50 CrossFit Box
+gym_172,Baldwin Park Premium Gym
+gym_173,Audubon Park Fitness
+gym_174,Dr. Phillips Aquatics
+gym_175,Sand Lake Women's Fitness
+gym_176,International Drive Athletic
+gym_177,Ybor City Fitness Studio
+gym_178,Hyde Park CrossFit
+gym_179,SoHo Tampa Wellness
+gym_180,Bayshore Premium Athletic
+gym_181,Seminole Heights Training
+gym_182,Harbour Island Spa & Gym
+gym_183,Channelside Sports Complex
+gym_184,Westshore CrossFit Center
+gym_185,South Tampa Fitness Studio
+gym_186,Davis Islands Aquatic Club
+gym_187,Riverside Jacksonville Gym
+gym_188,San Marco Athletic Center
+gym_189,Brooklyn Fitness Studio
+gym_190,Avondale Wellness Spa
+gym_191,Springfield Sports Complex
+gym_192,Five Points CrossFit
+gym_193,Murray Hill Fitness Club
+gym_194,Beach Boulevard Athletic
+gym_195,Las Olas Fitness Studio
+gym_196,Riverwalk CrossFit Center
+gym_197,Victoria Park Wellness
+gym_198,Flagler Village Premium Gym
+gym_199,Colee Hammock Training
+gym_200,Harbor Beach Spa & Fitness
